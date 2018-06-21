@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Social Media and the Internet "
-date:       2018-06-20 16:07:09 +0000
+date:       2018-06-20 12:07:10 -0400
 permalink:  social_media_and_the_internet
 ---
 
@@ -12,7 +12,7 @@ The internet has grown drastically over the years. One thing that has affected i
 
 Looking at this chart, it explains the trend of social media: 
 ![](http://assets.pewresearch.org/wp-content/uploads/sites/14/2018/03/01094135/PI_2018.03.01_Social-Media_0-01.png)
-[](http://assets.pewresearch.org/wp-content/uploads/sites/14/2018/03/01094135/PI_2018.03.01_Social-Media_0-01.png)
+Source: http://assets.pewresearch.org/wp-content/uploads/sites/14/2018/03/01094135/PI_2018.03.01_Social-Media_0-01.png
 
 Personally, I was very fond of Facebook when it first came out but since the ads and the videos started, it has been more of an outlet to get people to buy something or like something. It can be a good or bad thing depending on the intentions of the person posting the ads or content. Youtube has a similar feel except that it caters more to videos than to posts. The Youtube videos also contain ads and sometimes it can be more a nuissance than it was intended for. Ads are basically everywhere.
 
